@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.blackbaud.com.ico",
     "slug": "blackbaud-status",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.59%",
     "uptimeDay": "98.68%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
-    "time": 410,
-    "timeDay": 372,
-    "timeWeek": 410,
-    "timeMonth": 410,
-    "timeYear": 410,
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 424,
+    "timeDay": 484,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2025-11-02": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 226,
-    "timeWeek": 340,
-    "timeMonth": 340,
-    "timeYear": 340,
+    "time": 326,
+    "timeDay": 257,
+    "timeWeek": 326,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   }
 ]
